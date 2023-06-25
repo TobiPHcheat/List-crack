@@ -12,16 +12,16 @@
 + pip install rich
 + rm -rf FList_Crack
 
-rm -rf FList_Crack
++ rm -rf FList_Crack
 
-pip install tqdm
++ pip install tqdm
 
-cd List-crack
++ cd List-crack
 
-python Cython_PH.py
++ python Cython_PH.py
 
 
 
-shortcut command 👇
+# shortcut command 👇
 
-+ python Run.py
+# python Run.py
