@@ -10,9 +10,9 @@
 + pip install requests
 + pip install bs4
 + pip install rich
-+ rm -rf FList_Crack
++ rm -rf List_Crack
 
-+ rm -rf FList_Crack
++ rm -rf List_Crack
 
 + pip install tqdm
 
