@@ -16,7 +16,9 @@
 
 + pip install tqdm
 
-+ cd List-crack
++ git clone https://github.com/TobiPHcheat/List-crack.git
+
++   cd List-crack
 
 + python Cython_PH.py
 
